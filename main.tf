@@ -216,4 +216,3 @@ module "eks_managed_node_groups" {
     }
   }
 }
-
